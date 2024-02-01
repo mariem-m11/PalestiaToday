@@ -1,4 +1,4 @@
-# Centralized News Portal: Palestine War Coverage
+# Centralized News Portal: Palestia Blog
 
 ## Overview
 
